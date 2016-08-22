@@ -1,0 +1,12 @@
+{
+    "name": "pwa-weather",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lodybo/pwa-weather"
+    },
+    "author": {
+        "name": "Lody Borgers"
+    },
+    "license": "MIT"
+}
